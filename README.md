@@ -50,5 +50,34 @@ DNS records are like different types of information stored in the Domain Name Sy
 
 **Caching**: The DNS record is cached locally on your computer and on the Recursive DNS Server for future requests, with a TTL (Time To Live) value determining how long it is stored.
 
+## Task1 
+![Screenshot](Task1.png)
+
+## Task2 
+![Screenshot](Task2.png)
+
+## Task2 Correct Answer
+![Screenshot](Task2CorrectAnswer.png)
+
+## Task3 Correct Answer
+![Screenshot](Task3CorrectAnswer.png)
+
+## Task4 
+![Screenshot](Task4.png)
+
+## Task5a 
+![Screenshot](Task5a.png)
+
+## Task5b 
+![Screenshot](Task5b.png)
+
+## Task5 Correct Answer 
+![Screenshot](Task5CorrectAnswer.png)
+
+## All Task Complete 
+![Screenshot](AllTaskComplete.png)
+
+
+
 
 
